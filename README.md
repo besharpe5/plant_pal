@@ -25,11 +25,9 @@ SO THAT it's easy to keep them alive
 
 ## Deployment
 
-To deploy this project run
+https://plant-pal-project.herokuapp.com/
 
-```bash
-  
-```
+![image]()
 
 
 
